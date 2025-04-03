@@ -1,0 +1,5 @@
+name1=input("what is your name?")
+name2=input("what is your partner's name?")
+lenght1=len(name1)
+lenght2=len(name2)
+print(str(lenght1) + " " + str(lenght2))
